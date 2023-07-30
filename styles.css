@@ -1,5 +1,8 @@
 .fond{
-    background-color: aqua;
+    background-color: aqua;font-family: 'Roboto', sans-serif;
+}
+.li{
+    display: inline
 }
 .tel{
 font-size: small;heigh: 50px;width: 50px;
